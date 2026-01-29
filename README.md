@@ -56,5 +56,6 @@ To view this portfolio on your local machine:
 - **LinkedIn**: [Aman Gupta](https://www.linkedin.com/in/aman-gupta-8a3a6224b/)
 - **GitHub**: [AG6589](https://github.com/AG6589)
 
+ https://ag6589.github.io/portfolio/
 ---
 &copy; 2025 Aman Kumar Gupta. All Rights Reserved.
